@@ -11,7 +11,7 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 event_question = ["sự_kiện"]
 argument_nth_question = 5
-tokenizer = AutoTokenizer.from_pretrained('phobert-base')
+tokenizer = AutoTokenizer.from_pretrained('vinai/phobert-base')
 
 max_length = 300
 
@@ -312,7 +312,7 @@ def make_prediction_argument(start_inps, end_inps, in_sentence, event_ids, start
 
     return result
 
-argument_model = ArgumentMRCBert(AutoModel.from_pretrained('phobert-base'))                   
+argument_model = ArgumentMRCBert(AutoModel.from_pretrained('vinai/phobert-base'))                   
 
 argument_model.load_state_dict(torch.load('weight/phobert-base-qa-argument-5-th-question.pth', map_location=device))
 
