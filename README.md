@@ -3,7 +3,7 @@
 This project focuses on implementing deep learning methods for Event Extraction tasks in Vietnamese text. The goal is to analyze Vietnamese sentences and identify triggers (words or phrases strongly expressing an event) along with corresponding arguments (words or phrases representing objects involved in the event). The project utilizes state-of-the-art methods applied to the [ACE 2005 dataset](https://catalog.ldc.upenn.edu/LDC2006T06), including:
 
 - A pipeline module based on CNN ([Nguyen et al., 2015](https://aclanthology.org/P15-2060/))
-- A pipeline module based on
+- A pipeline module based on BiLSTM
 - A pipeline module based on PhoBERT by adapting it to the Machine Reading Comprehension task ([Liu et al., 2021](https://aclanthology.org/2020.emnlp-main.128/))
 - A joint module based on BiLSTM ([Nguyen et al., 2016](https://aclanthology.org/N16-1034/))
 
