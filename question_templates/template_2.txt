@@ -1,0 +1,153 @@
+End-position_Person,Ai ?
+End-position_Time,Khi nào ?
+End-position_Entity,Đối_tượng là ai ?
+End-position_Position,Vị_trí là gì ?
+End-position_Place,Địa_điểm ở đâu ?
+Transport_Artifact,Hiện_vật là cái gì ?
+Transport_Origin,Nguồn_gốc ở đâu ?
+Transport_Agent,Tác_nhân là ai ?
+Transport_Time,Khi nào ?
+Transport_Destination,Điểm đến ở đâu ?
+Transport_Vehicle,Phương_tiện là cái gì ?
+Transfer-money_Giver,Người cho là ai ?
+Transfer-money_Time,Khi nào ?
+Transfer-money_Money,Tiền là gì
+Transfer-money_Recipient,Người nhận là ai ?
+Transfer-money_Beneficiary,Người thụ_hưởng là ai ?
+Transfer-money_Place,Địa_điểm ở đâu ?
+Meet_Place,Địa_điểm ở đâu ?
+Meet_Entity,Đối_tượng là ai ?
+Meet_Time,Khi nào ?
+Die_Victim,Nạn_nhân là ai ?
+Die_Agent,Tác_nhân là ai ?
+Die_Place,Địa_điểm ở đâu ?
+Die_Time,Khi nào ?
+Die_Instrument,Công_cụ là cái gì ?
+Attack_Attacker,Người tấn_công là ai ?
+Attack_Instrument,Công_cụ là cái gì ?
+Attack_Target,Mục_tiêu là gì ?
+Attack_Place,Địa_điểm ở đâu ?
+Attack_Time,Khi nào ?
+Injure_Victim,Nạn_nhân là ai ?
+Injure_Agent,Tác_nhân là ai ?
+Injure_Time,Khi nào ?
+Injure_Place,Địa_điểm ở đâu ?
+Injure_Instrument,Công_cụ là cái gì ?
+Arrest-jail_Agent,Tác_nhân là ai ?
+Arrest-jail_Person,Ai ?
+Arrest-jail_Crime,Tội_ác là gì ?
+Arrest-jail_Time,Khi nào ?
+Arrest-jail_Place,Địa_điểm ở đâu ?
+Declare-bankruptcy_Org,Tổ_chức là gì ?
+Declare-bankruptcy_Time,Khi nào ?
+Declare-bankruptcy_Place,Địa_điểm ở đâu ?
+Trial-hearing_Defendant,Bị_cáo là ai ?
+Trial-hearing_Time,Khi nào ?
+Trial-hearing_Crime,Tội_ác là gì ?
+Trial-hearing_Adjudicator,Thẩm_phán là ai ?
+Trial-hearing_Place,Địa_điểm ở đâu ?
+Trial-hearing_Prosecutor,Kiểm_sát_viên là ai ?
+Transfer-ownership_Buyer,Người mua là ai ?
+Transfer-ownership_Price,Giá là gì ?
+Transfer-ownership_Place,Địa_điểm ở đâu ?
+Transfer-ownership_Seller,Người bán là ai ?
+Transfer-ownership_Artifact,Hiện_vật là cái gì ?
+Transfer-ownership_Time,Khi nào ?
+Transfer-ownership_Beneficiary,Người thụ_hưởng là ai ?
+Charge-indict_Defendant,Bị_cáo là ai ?
+Charge-indict_Crime,Tội_ác là gì ?
+Charge-indict_Time,Khi nào ?
+Charge-indict_Prosecutor,Kiểm_sát_viên là ai ?
+Charge-indict_Adjudicator,Thẩm_phán là ai ?
+Charge-indict_Place,Địa_điểm ở đâu ?
+Marry_Person,Ai ?
+Marry_Time,Khi nào ?
+Marry_Place,Địa_điểm ở đâu ?
+Be-born_Time,Khi nào ?
+Be-born_Person,Ai ?
+Be-born_Place,Địa_điểm ở đâu ?
+Convict_Defendant,Bị_cáo là ai ?
+Convict_Crime,Tội_ác là gì ?
+Convict_Adjudicator,Thẩm_phán là ai ?
+Convict_Place,Địa_điểm ở đâu ?
+Convict_Time,Khi nào ?
+Start-position_Position,Vị_trí là gì ?
+Start-position_Time,Khi nào ?
+Start-position_Person,Ai ?
+Start-position_Entity,Đối_tượng là ai ?
+Start-position_Place,Địa_điểm ở đâu ?
+Nominate_Person,Ai ?
+Nominate_Agent,Tác_nhân là ai ?
+Nominate_Position,Vị_trí là gì ?
+Nominate_Time,Khi nào ?
+Nominate_Place,Địa_điểm ở đâu ?
+Demonstrate_Time,Khi nào ?
+Demonstrate_Place,Địa_điểm ở đâu ?
+Demonstrate_Entity,Đối_tượng là ai ?
+End-org_Org,Tổ_chức là gì ?
+End-org_Time,Khi nào ?
+End-org_Place,Địa_điểm ở đâu ?
+Fine_Time,Khi nào ?
+Fine_Money,Tiền là gì
+Fine_Entity,Đối_tượng là ai ?
+Fine_Crime,Tội_ác là gì ?
+Fine_Adjudicator,Thẩm_phán là ai ?
+Fine_Place,Địa_điểm ở đâu ?
+Divorce_Person,Ai ?
+Divorce_Time,Khi nào ?
+Divorce_Place,Địa_điểm ở đâu ?
+Sue_Plaintiff,Nguyên_đơn là ai ?
+Sue_Defendant,Bị_cáo là ai ?
+Sue_Crime,Tội_ác là gì ?
+Sue_Time,Khi nào ?
+Sue_Adjudicator,Thẩm_phán là ai ?
+Sue_Place,Địa_điểm ở đâu ?
+Elect_Entity,Đối_tượng là ai ?
+Elect_Position,Vị_trí là gì ?
+Elect_Person,Ai ?
+Elect_Time,Khi nào ?
+Elect_Place,Địa_điểm ở đâu ?
+Merge-org_Org,Tổ_chức là gì ?
+Merge-org_Time,Khi nào ?
+Start-org_Agent,Tác_nhân là ai ?
+Start-org_Org,Tổ_chức là gì ?
+Start-org_Time,Khi nào ?
+Start-org_Place,Địa_điểm ở đâu ?
+Sentence_Defendant,Bị_cáo là ai ?
+Sentence_Adjudicator,Thẩm_phán là ai ?
+Sentence_Time,Khi nào ?
+Sentence_Sentence,Phán_quyết là gì ?
+Sentence_Crime,Tội_ác là gì ?
+Sentence_Place,Địa_điểm ở đâu ?
+Release-parole_Entity,Đối_tượng là ai ?
+Release-parole_Person,Ai ?
+Release-parole_Place,Địa_điểm ở đâu ?
+Release-parole_Time,Khi nào ?
+Release-parole_Crime,Tội_ác là gì ?
+Phone-write_Entity,Đối_tượng là ai ?
+Phone-write_Time,Khi nào ?
+Execute_Person,Ai ?
+Execute_Agent,Tác_nhân là ai ?
+Execute_Place,Địa_điểm ở đâu ?
+Execute_Time,Khi nào ?
+Execute_Crime,Tội_ác là gì ?
+Extradite_Person,Ai ?
+Extradite_Agent,Tác_nhân là ai ?
+Extradite_Destination,Điểm đến ở đâu ?
+Extradite_Origin,Nguồn_gốc ở đâu ?
+Extradite_Time,Khi nào ?
+Extradite_Crime,Tội_ác là gì ?
+Appeal_Defendant,Bị_cáo là ai ?
+Appeal_Prosecutor,Kiểm_sát_viên là ai ?
+Appeal_Crime,Tội_ác là gì ?
+Appeal_Adjudicator,Thẩm_phán là ai ?
+Appeal_Time,Khi nào ?
+Pardon_Adjudicator,Thẩm_phán là ai ?
+Pardon_Defendant,Bị_cáo là ai ?
+Pardon_Time,Khi nào ?
+Pardon_Crime,Tội_ác là gì ?
+Pardon_Place,Địa_điểm ở đâu ?
+Arquit_Defendant,Bị_cáo là ai ?
+Arquit_Adjudicator,Thẩm_phán là ai ?
+Arquit_Time,Khi nào ?
+Arquit_Crime,Tội_ác là gì ?
