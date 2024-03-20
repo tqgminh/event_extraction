@@ -22,7 +22,7 @@ Install all dependencies listed in the ```requirements.txt``` file:
 pip install -r requirements.txt
 ```
 
-Additionally, you'll need to download two weight files for the pipeline module based on PhoBERT from the provided URLs and place them in the ```weight`` folder.
+Additionally, you'll need to download two weight files for the pipeline module based on PhoBERT from the provided URLs and place them in the ```weight``` folder.
 - PhoBERT for Trigger Detection: https://drive.google.com/file/d/1mMfm9VBuMQ_8G9Jbx6JIZYKu70uzKha7/view?usp=sharing
 - PhoBERT for Argument Detection: https://drive.google.com/file/d/1zMv5wb9XKW3gW_K6yIfrguSKlZqrs7B5/view?usp=sharing
 
